@@ -5,13 +5,14 @@ const Front = () => {
         <div>
 
 
-            <div className="grid md:grid-cols-2">
+            <div className="grid md:grid-cols-2 gap-2">
 
                 {/* Your grid items go here */}
+                <div>
                 <img src="https://tractorguru.in/blog/wp-content/uploads/2021/08/Top-10-govt-schemes-for-farmers-2.jpg " width={1050}>
 
                 </img>
-
+</div>
                 <div className="flex flex-col justify-center gap-5 m-5" >
                     <div class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl text-green">Start asking your doubts with our chatbot - <span className='text-green-400'>Kishan Mitra 🤖</span></div>
                 </div>
