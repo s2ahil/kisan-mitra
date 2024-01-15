@@ -8,7 +8,7 @@ const Front = () => {
             <div className="grid md:grid-cols-2 gap-2">
 
                 {/* Your grid items go here */}
-                <div>
+                <div className="m-5">
                 <img src="https://tractorguru.in/blog/wp-content/uploads/2021/08/Top-10-govt-schemes-for-farmers-2.jpg " width={1050}>
 
                 </img>
