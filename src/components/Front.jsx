@@ -14,7 +14,7 @@ const Front = () => {
                 </img>
 </div>
                 <div className="flex flex-col justify-center gap-5 m-5" >
-                    <div class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl text-green">Start asking your doubts with our chatbot - <span className='text-green-400'>Kishan Mitra 🤖</span></div>
+                    <div class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl text-green">Start asking your doubts with our chatbot - <span className='text-blue-400'>Kishan Mitra 🤖</span></div>
                 </div>
             </div>
             <div className='flex justify-center '>
