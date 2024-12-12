@@ -9,12 +9,12 @@ const Front = () => {
 
                 {/* Your grid items go here */}
                 <div className="m-5">
-                <img src="https://tractorguru.in/blog/wp-content/uploads/2021/08/Top-10-govt-schemes-for-farmers-2.jpg " width={1050}>
+                <img src="https://imgs.search.brave.com/RN8EjA8jslbNL18m3Znfj20W8f3W40XHV4qs_CWZAVQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA4LzkzLzc4LzY3/LzM2MF9GXzg5Mzc4/NjcxNF9lT3d2UDNj/d1BDQlhDODFUcFJ4/RUhvUE5CbFZhbDRy/My5qcGc" width={1050}>
 
                 </img>
 </div>
                 <div className="flex flex-col justify-center gap-5 m-5" >
-                    <div class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl text-green">Start asking your doubts with our chatbot - <span className='text-green-400'>Kishan Mitra 🤖</span></div>
+                    <div class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl text-green">Start asking your doubts with our chatbot - <span className='text-green-400'>KISAN AAROGYA BOT 🤖</span></div>
                 </div>
             </div>
             <div className='flex justify-center '>
